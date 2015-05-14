@@ -1,0 +1,26 @@
+{
+  "name": "runscope-listener",
+  "version": "1.0.0",
+  "description": "A listener for runscope webhooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emilabraham/runscope-listener.git"
+  },
+  "keywords": [
+    "webhooks",
+    "runscope",
+    "listener"
+  ],
+  "author": "Emil Abraham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilabraham/runscope-listener/issues"
+  },
+  "homepage": "https://github.com/emilabraham/runscope-listener",
+  "dependencies": {
+  }
+}
